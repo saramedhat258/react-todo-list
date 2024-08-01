@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/react-todo-list/static/css/main.2aa96ae7.css",
-    "main.js": "/github.io/react-todo-list/static/js/main.960a7d3c.js",
-    "static/js/453.37753ddd.chunk.js": "/github.io/react-todo-list/static/js/453.37753ddd.chunk.js",
-    "index.html": "/github.io/react-todo-list/index.html",
-    "main.2aa96ae7.css.map": "/github.io/react-todo-list/static/css/main.2aa96ae7.css.map",
-    "main.960a7d3c.js.map": "/github.io/react-todo-list/static/js/main.960a7d3c.js.map",
-    "453.37753ddd.chunk.js.map": "/github.io/react-todo-list/static/js/453.37753ddd.chunk.js.map"
+    "main.css": "/react-todo-list/static/css/main.2aa96ae7.css",
+    "main.js": "/react-todo-list/static/js/main.fb9281a3.js",
+    "static/js/453.37753ddd.chunk.js": "/react-todo-list/static/js/453.37753ddd.chunk.js",
+    "index.html": "/react-todo-list/index.html",
+    "main.2aa96ae7.css.map": "/react-todo-list/static/css/main.2aa96ae7.css.map",
+    "main.fb9281a3.js.map": "/react-todo-list/static/js/main.fb9281a3.js.map",
+    "453.37753ddd.chunk.js.map": "/react-todo-list/static/js/453.37753ddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2aa96ae7.css",
-    "static/js/main.960a7d3c.js"
+    "static/js/main.fb9281a3.js"
   ]
 }
